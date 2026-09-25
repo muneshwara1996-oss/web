@@ -1,0 +1,19 @@
+   /* styling all <h1> elements */
+ h1{
+    color: black;
+    text-align: center;
+    font-size:10;
+ }   
+
+ /* /* styling all <h2> elements */
+ h2{
+   color: blueviolet;
+   text-decoration: underline;}
+
+ /* /* /* styling all <p> elemnets  */
+ p{
+    color: black;
+    font: size 20px;
+   line-height: 1.5;
+ }
+ 
