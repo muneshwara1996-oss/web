@@ -1,0 +1,15 @@
+div h1{background-color: blue;
+    color: black;
+}
+div>h2{
+background-color: rgb(22, 178, 184);
+color: rgb(90, 15, 160);}
+
+div+h1{
+        background-color: cornflowerblue;
+        color: coral;
+}
+div~h2{
+    background-color: blueviolet;
+    color: brown;
+}

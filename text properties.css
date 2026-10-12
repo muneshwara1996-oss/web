@@ -1,0 +1,20 @@
+p{
+    color: blue;
+    text-align: center;
+    text-align: right;
+    text-align: left;
+    text-align: justify;
+    text-align-last:center ;
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+     text-indent: 200px;
+    /* text-shadow:12px 12px 1px rgb(122, 23, 23); */
+    line-height: 120px;
+    letter-spacing: 3px;
+    word-spacing: 20px;
+    text-decoration: underline;
+    text-decoration-thickness: 12px;
+    text-decoration-color:navy ;
+    text-decoration-style: dotted ;
+}

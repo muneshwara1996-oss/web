@@ -1,0 +1,66 @@
+#a{
+    width:200px ;
+     height:200px ;
+    background-color: rgb(43, 105, 107);
+    background: linear-gradient(360deg,yellow,red);
+    background:repeating-linear-gradient(360deg,orange 0%,orange 33.3%,white 33.3%,white,66.6%,green 66.6%,green 100%);
+    /* background:radial-gradient(#130707,rgb(175, 175, 204)) ;
+    background: repeating-radial-gradient(white 0,white 5%,black 5%,black 10%);
+    background:conic-gradient(blue,cadetblue) ;
+    background:repeating-conic-gradient(white 0%,white 3%,blue 3%,blue 5%) ;  */
+    position:absolute;
+    top: 50px;
+    left: 200px;
+}
+    
+    
+ 
+#b{
+    height: 65px;
+    width: 65px;
+    background-color: blue;
+    border-radius:160px;
+    background:repeating-conic-gradient(white 0%,white 3%,blue 3%,blue 5%) ; 
+    position: absolute;
+    top: 68px;
+    left:73px;
+ }
+
+#c{
+   height: 500px;
+   width: 12px;
+   background-color:rgb(44, 17, 94) ;
+   position:absolute ;
+   bottom: -367px;
+   right:136px ;
+}
+
+#d{
+    height:20px ;
+    width:100px ;
+    background-color: rgb(106, 101, 101);
+    position: absolute;
+    top: 500px;
+    right:-45px;
+
+}
+
+#e{
+    
+    height:30px ;
+    width:170px ;
+    background-color: rgb(106, 101, 101);
+    position: absolute;
+    top: 20px;
+    right:-35px;
+}
+#h{
+    
+    
+    height:40px ;
+    width:300px ;
+    background-color: rgb(106, 101, 101);
+    position: absolute;
+    top: 20px;
+    right:-70px;
+}

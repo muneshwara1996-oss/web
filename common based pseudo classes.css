@@ -1,0 +1,29 @@
+h1:first-child{
+    color: blue;
+}
+h1:last-child{
+    color: blueviolet;
+}
+h4:first-of-type{
+    color: cadetblue;
+}
+h3:last-of-type{
+    color: darkblue;
+}
+h2:nth-child(2){ 
+    color: darkgreen;
+}
+h1:nth-last-child(1){
+    color: brown;
+}
+h1:nth-of-type(1){
+    color: darkmagenta;
+}
+h1:nth-last-of-type(1){
+    color: darkslategrey;
+}
+
+h1:only-child{
+    color: rgb(233, 100, 187);} 
+
+h1:only-of-type{color: darkred;}
